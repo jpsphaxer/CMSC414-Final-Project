@@ -1,2 +1,2 @@
-# Team JAC
+# Bank ATM Project
 
